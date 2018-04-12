@@ -1,2 +1,2 @@
 TTTT
-git@github.com:ArnoZJ/learngit.git
+Creating a new branch is quick & simple.
