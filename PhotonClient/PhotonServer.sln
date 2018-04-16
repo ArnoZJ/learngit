@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{753F7CA7-AF3A-AF4E-CDBE-B153FC39D732}") = "PhotonServer", "Assembly-CSharp.csproj", "{B4A3E1C3-4DD4-E07E-2125-E19EFEB6A54C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4A3E1C3-4DD4-E07E-2125-E19EFEB6A54C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4A3E1C3-4DD4-E07E-2125-E19EFEB6A54C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4A3E1C3-4DD4-E07E-2125-E19EFEB6A54C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4A3E1C3-4DD4-E07E-2125-E19EFEB6A54C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
